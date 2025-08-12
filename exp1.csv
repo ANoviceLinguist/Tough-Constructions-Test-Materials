@@ -1,0 +1,401 @@
+NUM,SET,TYPE,GAP,GRAMMATICALITY,SENTENCE
+1,1,Tough,+,Grammatical,John is easy to please.
+2,1,Subject-Control,+,Grammatical,John is eager to please.
+3,1,Tough,-,Ungrammatical,John is easy to please his friends.
+4,1,Subject-Control,-,Grammatical,John is eager to please his friends.
+5,2,Tough,+,Grammatical,Tom is difficult to please.
+6,2,Subject-Control,+,Grammatical,Tom is glad to please.
+7,2,Tough,-,Ungrammatical,Tom is difficult to please the audience.
+8,2,Subject-Control,-,Grammatical,Tom is glad to please the audience.
+9,3,Tough,+,Grammatical,Alex is hard to please.
+10,3,Subject-Control,+,Grammatical,Alex is willing to please.
+11,3,Tough,-,Ungrammatical,Alex is hard to please the coach.
+12,3,Subject-Control,-,Grammatical,Alex is willing to please the coach.
+13,4,Tough,+,Grammatical,Mary is impossible to please.
+14,4,Subject-Control,+,Grammatical,Mary is happy to please.
+15,4,Tough,-,Ungrammatical,Mary is impossible to please her partner.
+16,4,Subject-Control,-,Grammatical,Mary is happy to please her partner.
+17,5,Tough,+,Grammatical,Alice is tough to please.
+18,5,Subject-Control,+,Grammatical,Alice is ready to please.
+19,5,Tough,-,Ungrammatical,Alice is tough to please them.
+20,5,Subject-Control,-,Grammatical,Alice is ready to please them.
+21,6,Tough,+,Grammatical,David is easy to understand.
+22,6,Subject-Control,+,Grammatical,David is eager to understand.
+23,6,Tough,-,Ungrammatical,David is easy to understand the book.
+24,6,Subject-Control,-,Grammatical,David is eager to understand the book.
+25,7,Tough,+,Grammatical,Chris is difficult to understand.
+26,7,Subject-Control,+,Grammatical,Chris is glad to understand.
+27,7,Tough,-,Ungrammatical,Chris is difficult to understand him.
+28,7,Subject-Control,-,Grammatical,Chris is glad to understand him.
+29,8,Tough,+,Grammatical,Brian is hard to understand.
+30,8,Subject-Control,+,Grammatical,Brian is willing to understand.
+31,8,Tough,-,Ungrammatical,Brian is hard to understand the situation.
+32,8,Subject-Control,-,Grammatical,Brian is willing to understand the situation.
+33,9,Tough,+,Grammatical,Kevin is impossible to understand.
+34,9,Subject-Control,+,Grammatical,Kevin is happy to understand.
+35,9,Tough,-,Ungrammatical,Kevin is impossible to understand the circumstances.
+36,9,Subject-Control,-,Grammatical,Kevin is happy to understand the circumstances.
+37,10,Tough,+,Grammatical,Daniel is tough to understand.
+38,10,Subject-Control,+,Grammatical,Daniel is ready to understand.
+39,10,Tough,-,Ungrammatical,Daniel is tough to understand him.
+40,10,Subject-Control,-,Grammatical,Daniel is ready to understand him.
+41,11,Tough,+,Grammatical,Mark is easy to convince.
+42,11,Subject-Control,+,Grammatical,Mark is eager to convince.
+43,11,Tough,-,Ungrammatical,John is easy to convince his parents.
+44,11,Subject-Control,-,Grammatical,John is eager to convince his parents.
+45,12,Tough,+,Grammatical,Paul is difficult to convince.
+46,12,Subject-Control,+,Grammatical,Paul is prepared to convince.
+47,12,Tough,-,Ungrammatical,Paul is difficult to convince his friends.
+48,12,Subject-Control,-,Grammatical,Paul is prepared to convince his friends.
+49,13,Tough,+,Grammatical,Luke is hard to convince.
+50,13,Subject-Control,+,Grammatical,Luke is willing to convince.
+51,13,Tough,-,Ungrammatical,Luke is hard to convince the audience.
+52,13,Subject-Control,-,Grammatical,Luke is willing to convince the audience.
+53,14,Tough,+,Grammatical,Adam is impossible to convince.
+54,14,Subject-Control,+,Grammatical,Adam is determined to convince.
+55,14,Tough,-,Ungrammatical,Adam is impossible to convince the reviewers.
+56,14,Subject-Control,-,Grammatical,Adam is determined to convince the reviewers.
+57,15,Tough,+,Grammatical,Fred is tough to convince.
+58,15,Subject-Control,+,Grammatical,Fred is ready to convince.
+59,15,Tough,-,Ungrammatical,Fred is tough to convince his advisor.
+60,15,Subject-Control,-,Grammatical,Fred is ready to convince his advisor.
+61,16,Tough,+,Grammatical,Emma is easy to persuade.
+62,16,Subject-Control,+,Grammatical,Emma is eager to persuade.
+63,16,Tough,-,Ungrammatical,Emma is easy to persuade her lover.
+64,16,Subject-Control,-,Grammatical,Emma is eager to persuade her lover.
+65,17,Tough,+,Grammatical,Sarah is difficult to persuade.
+66,17,Subject-Control,+,Grammatical,Sarah is prepared to persuade.
+67,17,Tough,-,Ungrammatical,Sarah is difficult to persuade her teacher.
+68,17,Subject-Control,-,Grammatical,Sarah is prepared to persuade her teacher.
+69,18,Tough,+,Grammatical,Olivia is hard to persuade.
+70,18,Subject-Control,+,Grammatical,Olivia is willing to persuade.
+71,18,Tough,-,Ungrammatical,Olivia is hard to persuade the opponents.
+72,18,Subject-Control,-,Grammatical,Olivia is willing to persuade the opponents.
+73,19,Tough,+,Grammatical,Grace is impossible to persuade.
+74,19,Subject-Control,+,Grammatical,Grace is determined to persuade.
+75,19,Tough,-,Ungrammatical,Grace is impossible to persuade the committee.
+76,19,Subject-Control,-,Grammatical,Grace is determined to persuade the committee.
+77,20,Tough,+,Grammatical,Sophia is tough to persuade.
+78,20,Subject-Control,+,Grammatical,Sophia is ready to persuade.
+79,20,Tough,-,Ungrammatical,Sophia is tough to persuade her boyfriend.
+80,20,Subject-Control,-,Grammatical,Sophia is ready to persuade her boyfriend.
+81,21,Tough,+,Grammatical,Lucy is easy to deceive.
+82,21,Subject-Control,+,Grammatical,Lucy is eager to deceive.
+83,21,Tough,-,Ungrammatical,Lucy is easy to deceive the officer.
+84,21,Subject-Control,-,Grammatical,Lucy is eager to deceive the officer.
+85,22,Tough,+,Grammatical,Julia is difficult to deceive.
+86,22,Subject-Control,+,Grammatical,Julia is frustrated to deceive.
+87,22,Tough,-,Ungrammatical,Julia is difficult to deceive the clerk.
+88,22,Subject-Control,-,Grammatical,Julia is frustrated to deceive the clerk.
+89,23,Tough,+,Grammatical,Mia is hard to deceive.
+90,23,Subject-Control,+,Grammatical,Mia is anxious to deceive.
+91,23,Tough,-,Ungrammatical,Mia is hard to deceive the prosecutor.
+92,23,Subject-Control,-,Grammatical,Mia is anxious to deceive the prosecutor.
+93,24,Tough,+,Grammatical,Taylor is impossible to deceive.
+94,24,Subject-Control,+,Grammatical,Taylor is determined to deceive.
+95,24,Tough,-,Ungrammatical,Taylor is impossible to deceive the burglar.
+96,24,Subject-Control,-,Grammatical,Taylor is determined to deceive the burglar.
+97,25,Tough,+,Grammatical,Jordan is tough to deceive.
+98,25,Subject-Control,+,Grammatical,Jordan is ready to deceive.
+99,25,Tough,-,Ungrammatical,Jordan is tough to deceive the manager.
+100,25,Subject-Control,-,Grammatical,Jordan is ready to deceive the manager.
+101,26,Tough,+,Grammatical,Riley is easy to entertain.
+102,26,Subject-Control,+,Grammatical,Riley is eager to entertain.
+103,26,Tough,-,Ungrammatical,Riley is easy to entertain her classmates.
+104,26,Subject-Control,-,Grammatical,Riley is eager to entertain her classmates.
+105,27,Tough,+,Grammatical,Sam is difficult to entertain.
+106,27,Subject-Control,+,Grammatical,Sam is glad to entertain.
+107,27,Tough,-,Ungrammatical,Sam is difficult to entertain his girlfriend.
+108,27,Subject-Control,-,Grammatical,Sam is glad to entertain his girlfriend.
+109,28,Tough,+,Grammatical,Jamie is hard to entertain.
+110,28,Subject-Control,+,Grammatical,Jamie is willing to entertain.
+111,28,Tough,-,Ungrammatical,Jamie is hard to entertain the faculty members.
+112,28,Subject-Control,-,Grammatical,Jamie is willing to entertain the faculty members.
+113,29,Tough,+,Grammatical,Andrew is impossible to entertain.
+114,29,Subject-Control,+,Grammatical,Andrew is happy to entertain.
+115,29,Tough,-,Ungrammatical,Andrew is impossible to entertain his teammates.
+116,29,Subject-Control,-,Grammatical,Andrew is happy to entertain his teammates.
+117,30,Tough,+,Grammatical,James is tough to entertain.
+118,30,Subject-Control,+,Grammatical,James is ready to entertain.
+119,30,Tough,-,Ungrammatical,James is tough to entertain her colleagues.
+120,30,Subject-Control,-,Grammatical,James is ready to entertain her colleagues.
+121,31,Tough,+,Grammatical,Ben is easy to amuse.
+122,31,Subject-Control,+,Grammatical,Ben is eager to amuse.
+123,31,Tough,-,Ungrammatical,Ben is easy to amuse his seniors.
+124,31,Subject-Control,-,Grammatical,Ben is eager to amuse his seniors.
+125,32,Tough,+,Grammatical,Eric is difficult to amuse.
+126,32,Subject-Control,+,Grammatical,Eric is glad to amuse.
+127,32,Tough,-,Ungrammatical,Eric is difficult to amuse the children.
+128,32,Subject-Control,-,Grammatical,Eric is glad to amuse the children.
+129,33,Tough,+,Grammatical,Peter is hard to amuse.
+130,33,Subject-Control,+,Grammatical,Peter is willing to amuse.
+131,33,Tough,-,Ungrammatical,Peter is hard to amuse the guests.
+132,33,Subject-Control,-,Grammatical,Peter is willing to amuse the guests.
+133,34,Tough,+,Grammatical,Ryan is impossible to amuse.
+134,34,Subject-Control,+,Grammatical,Ryan is happy to amuse.
+135,34,Tough,-,Ungrammatical,Ryan is impossible to amuse the board members.
+136,34,Subject-Control,-,Grammatical,Ryan is happy to amuse the board members.
+137,35,Tough,+,Grammatical,Ethan is tough to amuse.
+138,35,Subject-Control,+,Grammatical,Ethan is ready to amuse.
+139,35,Tough,-,Ungrammatical,Ethan is tough to amuse his boss.
+140,35,Subject-Control,-,Grammatical,Ethan is ready to amuse his boss.
+141,36,Tough,+,Grammatical,Sean is easy to impress.
+142,36,Subject-Control,+,Grammatical,Sean is eager to impress.
+143,36,Tough,-,Ungrammatical,Sean is easy to impress his superiors.
+144,36,Subject-Control,-,Grammatical,Sean is eager to impress his superiors.
+145,37,Tough,+,Grammatical,Justin is difficult to impress.
+146,37,Subject-Control,+,Grammatical,Justin is anxious to impress.
+147,37,Tough,-,Ungrammatical,Justin is difficult to impress the investors.
+148,37,Subject-Control,-,Grammatical,Justin is anxious to impress the investors.
+149,38,Tough,+,Grammatical,Scott is hard to impress.
+150,38,Subject-Control,+,Grammatical,Scott is willing to impress.
+151,38,Tough,-,Ungrammatical,Scott is hard to impress the governor.
+152,38,Subject-Control,-,Grammatical,Scott is willing to impress the governor.
+153,39,Tough,+,Grammatical,Josh is impossible to impress.
+154,39,Subject-Control,+,Grammatical,Josh is desperate to impress.
+155,39,Tough,-,Ungrammatical,Josh is impossible to impress the president.
+156,39,Subject-Control,-,Grammatical,Josh is desperate to impress the president.
+157,40,Tough,+,Grammatical,Lily is tough to impress.
+158,40,Subject-Control,+,Grammatical,Lily is ready to impress.
+159,40,Tough,-,Ungrammatical,Lily is tough to impress the mayor.
+160,40,Subject-Control,-,Grammatical,Lily is ready to impress the mayor.
+161,41,Tough,+,Grammatical,Ella is easy to notice.
+162,41,Subject-Control,+,Grammatical,Ella is eager to notice.
+163,41,Tough,-,Ungrammatical,Ella is easy to notice progress.
+164,41,Subject-Control,-,Grammatical,Ella is eager to notice progress.
+165,42,Tough,+,Grammatical,Rachel is difficult to notice.
+166,42,Subject-Control,+,Grammatical,Rachel is determined to notice.
+167,42,Tough,-,Ungrammatical,Rachel is difficult to notice mistakes.
+168,42,Subject-Control,-,Grammatical,Rachel is determined to notice mistakes.
+169,43,Tough,+,Grammatical,Amber is hard to notice.
+170,43,Subject-Control,+,Grammatical,Amber is willing to notice.
+171,43,Tough,-,Ungrammatical,Amber is hard to notice problems.
+172,43,Subject-Control,-,Grammatical,Amber is willing to notice problems.
+173,44,Tough,+,Grammatical,Natalie is impossible to notice.
+174,44,Subject-Control,+,Grammatical,Natalie is happy to notice.
+175,44,Tough,-,Ungrammatical,Natalie is impossible to notice improvements.
+176,44,Subject-Control,-,Grammatical,Natalie is happy to notice improvements.
+177,45,Tough,+,Grammatical,Claire is tough to notice.
+178,45,Subject-Control,+,Grammatical,Claire is ready to notice.
+179,45,Tough,-,Ungrammatical,Claire is tough to notice new opportunities.
+180,45,Subject-Control,-,Grammatical,Claire is ready to notice new opportunities.
+181,46,Tough,+,Grammatical,Allison is easy to recognize
+182,46,Subject-Control,+,Grammatical,Allison is eager to recognize.
+183,46,Tough,-,Ungrammatical,Allison is easy to recognize their contributions.
+184,46,Subject-Control,-,Grammatical,Allison is eager to recognize their contributions.
+185,47,Tough,+,Grammatical,Sydney is difficult to recognize.
+186,47,Subject-Control,+,Grammatical,Sydney is prepared to recognize.
+187,47,Tough,-,Ungrammatical,Sydney is difficult to recognize any failures.
+188,47,Subject-Control,-,Grammatical,Sydney is prepared to recognize any failures.
+189,48,Tough,+,Grammatical,Hailey is hard to recognize.
+190,48,Subject-Control,+,Grammatical,Hailey is willing to recognize.
+191,48,Tough,-,Ungrammatical,Hailey is hard to recognize differences.
+192,48,Subject-Control,-,Grammatical,Hailey is willing to recognize differences.
+193,49,Tough,+,Grammatical,Anna is impossible to recognize.
+194,49,Subject-Control,+,Grammatical,Anna is happy to recognize.
+195,49,Tough,-,Ungrammatical,Anna is impossible to recognize their hard work.
+196,49,Subject-Control,-,Grammatical,Anna is happy to recognize their hard work.
+197,50,Tough,+,Grammatical,Rebecca is tough to recognize.
+198,50,Subject-Control,+,Grammatical,Rebecca is ready to recognize.
+199,50,Tough,-,Ungrammatical,Rebecca is tough to recognize their dedication.
+200,50,Subject-Control,-,Grammatical,Rebecca is ready to recognize their dedication.
+201,51,Tough,+,Grammatical,Kate is easy to distract.
+202,51,Subject-Control,+,Grammatical,Kate is eager to distract.
+203,51,Tough,-,Ungrammatical,Kate is easy to distract her teachers.
+204,51,Subject-Control,-,Grammatical,Kate is eager to distract her teachers.
+205,52,Tough,+,Grammatical,Nora is difficult to distract.
+206,52,Subject-Control,+,Grammatical,Nora is likely to distract.
+207,52,Tough,-,Ungrammatical,Nora is difficult to distract the crowd.
+208,52,Subject-Control,-,Grammatical,Nora is likely to distract the crowd.
+209,53,Tough,+,Grammatical,Charlie is hard to distract.
+210,53,Subject-Control,+,Grammatical,Charlie is willing to distract.
+211,53,Tough,-,Ungrammatical,Charlie is hard to distract the opposing team.
+212,53,Subject-Control,-,Grammatical,Charlie is willing to distract the opposing team.
+213,54,Tough,+,Grammatical,Oliver is impossible to distract.
+214,54,Subject-Control,+,Grammatical,Oliver is determined to distract.
+215,54,Tough,-,Ungrammatical,Oliver is impossible to distract the criminals.
+216,54,Subject-Control,-,Grammatical,Oliver is determined to distract the criminals.
+217,55,Tough,+,Grammatical,Dakota is tough to distract.
+218,55,Subject-Control,+,Grammatical,Dakota is ready to distract.
+219,55,Tough,-,Ungrammatical,Dakota is tough to distract the competitors.
+220,55,Subject-Control,-,Grammatical,Dakota is ready to distract the competitors.
+221,56,Tough,+,Grammatical,Miles is easy to manipulate.
+222,56,Subject-Control,+,Grammatical,Miles is eager to manipulate.
+223,56,Tough,-,Ungrammatical,Miles is easy to manipulate the players.
+224,56,Subject-Control,-,Grammatical,Miles is eager to manipulate the players.
+225,57,Tough,+,Grammatical,Owen is difficult to manipulate.
+226,57,Subject-Control,+,Grammatical,Owen is prepared to manipulate.
+227,57,Tough,-,Ungrammatical,Owen is difficult to manipulate the audience.
+228,57,Subject-Control,-,Grammatical,Owen is prepared to manipulate the audience.
+229,58,Tough,+,Grammatical,Seth is hard to manipulate.
+230,58,Subject-Control,+,Grammatical,Seth is willing to manipulate.
+231,58,Tough,-,Ungrammatical,Seth is hard to manipulate the gamblers.
+232,58,Subject-Control,-,Grammatical,Seth is willing to manipulate the gamblers.
+233,59,Tough,+,Grammatical,Daisy is impossible to manipulate.
+234,59,Subject-Control,+,Grammatical,Daisy is determined to manipulate.
+235,59,Tough,-,Ungrammatical,Daisy is impossible to manipulate the opponents.
+236,59,Subject-Control,-,Grammatical,Daisy is determined to manipulate the opponents.
+237,60,Tough,+,Grammatical,Bill is tough to manipulate.
+238,60,Subject-Control,+,Grammatical,Bill is ready to manipulate.
+239,60,Tough,-,Ungrammatical,Bill is tough to manipulate the competitors.
+240,60,Subject-Control,-,Grammatical,Bill is ready to manipulate the competitors.
+241,61,Tough,+,Grammatical,Naomi is easy to comfort.
+242,61,Subject-Control,+,Grammatical,Naomi is eager to comfort.
+243,61,Tough,-,Ungrammatical,Naomi is easy to comfort her babies.
+244,61,Subject-Control,-,Grammatical,Naomi is eager to comfort her babies.
+245,62,Tough,+,Grammatical,Franklin is difficult to comfort.
+246,62,Subject-Control,+,Grammatical,Franklin is determined to comfort.
+247,62,Tough,-,Ungrammatical,Franklin is difficult to comfort his father.
+248,62,Subject-Control,-,Grammatical,Franklin is determined to comfort his father.
+249,63,Tough,+,Grammatical,Harrison is hard to comfort.
+250,63,Subject-Control,+,Grammatical,Harrison is willing to comfort.
+251,63,Tough,-,Ungrammatical,Harrison is hard to comfort the child.
+252,63,Subject-Control,-,Grammatical,Harrison is willing to comfort the child.
+253,64,Tough,+,Grammatical,Gloria is impossible to comfort.
+254,64,Subject-Control,+,Grammatical,Gloria is happy to comfort.
+255,64,Tough,-,Ungrammatical,Gloria is impossible to comfort her students.
+256,64,Subject-Control,-,Grammatical,Gloria is happy to comfort her students.
+257,65,Tough,+,Grammatical,Miranda is tough to comfort.
+258,65,Subject-Control,+,Grammatical,Miranda is ready to comfort.
+259,65,Tough,-,Ungrammatical,Miranda is tough to comfort her sister.
+260,65,Subject-Control,-,Grammatical,Miranda is ready to comfort her sister.
+261,66,Tough,+,Grammatical,Monica is easy to shock.
+262,66,Subject-Control,+,Grammatical,Monica is eager to shock.
+263,66,Tough,-,Ungrammatical,Monica is easy to shock the nurse.
+264,66,Subject-Control,-,Grammatical,Monica is eager to shock the nurse.
+265,67,Tough,+,Grammatical,Parker is difficult to shock.
+266,67,Subject-Control,+,Grammatical,Parker is prepared to shock.
+267,67,Tough,-,Ungrammatical,Parker is difficult to shock his uncle.
+268,67,Subject-Control,-,Grammatical,Parker is prepared to shock his uncle.
+269,68,Tough,+,Grammatical,Tony is hard to shock.
+270,68,Subject-Control,+,Grammatical,Tony is willing to shock.
+271,68,Tough,-,Ungrammatical,Tony is hard to shock the client.
+272,68,Subject-Control,-,Grammatical,Tony is willing to shock the client.
+273,69,Tough,+,Grammatical,Michael is impossible to shock.
+274,69,Subject-Control,+,Grammatical,Michael is determined to shock.
+275,69,Tough,-,Ungrammatical,Michael is impossible to shock the judge.
+276,69,Subject-Control,-,Grammatical,Michael is determined to shock the judge.
+277,70,Tough,+,Grammatical,Veronica is tough to shock.
+278,70,Subject-Control,+,Grammatical,Veronica is ready to shock.
+279,70,Tough,-,Ungrammatical,Veronica is tough to shock them.
+280,70,Subject-Control,-,Grammatical,Veronica is ready to shock them.
+281,71,Tough,+,Grammatical,Dean is easy to surprise.
+282,71,Subject-Control,+,Grammatical,Dean is eager to surprise.
+283,71,Tough,-,Ungrammatical,Dean is easy to surprise the actor.
+284,71,Subject-Control,-,Grammatical,Dean is eager to surprise the actor.
+285,72,Tough,+,Grammatical,Francis is difficult to surprise.
+286,72,Subject-Control,+,Grammatical,Francis is prepared to surprise.
+287,72,Tough,-,Ungrammatical,Francis is difficult to surprise his brother.
+288,72,Subject-Control,-,Grammatical,Francis is prepared to surprise his brother.
+289,73,Tough,+,Grammatical,Howard is hard to surprise.
+290,73,Subject-Control,+,Grammatical,Howard is willing to surprise.
+291,73,Tough,-,Ungrammatical,Howard is hard to surprise his friends.
+292,73,Subject-Control,-,Grammatical,Howard is willing to surprise his friends.
+293,74,Tough,+,Grammatical,Simon is impossible to surprise.
+294,74,Subject-Control,+,Grammatical,Simon is determined to surprise.
+295,74,Tough,-,Ungrammatical,Simon is impossible to surprise the reporter.
+296,74,Subject-Control,-,Grammatical,Simon is determined to surprise the reporter.
+297,75,Tough,+,Grammatical,Helena is tough to surprise.
+298,75,Subject-Control,+,Grammatical,Helena is ready to surprise.
+299,75,Tough,-,Ungrammatical,Helena is tough to surprise her niece.
+300,75,Subject-Control,-,Grammatical,Helena is ready to surprise her niece.
+301,76,Tough,+,Grammatical,Serena is easy to irritate.
+302,76,Subject-Control,+,Grammatical,Serena is eager to irritate.
+303,76,Tough,-,Ungrammatical,Serena is easy to irritate the workers.
+304,76,Subject-Control,-,Grammatical,Serena is eager to irritate the workers.
+305,77,Tough,+,Grammatical,Nick is difficult to irritate.
+306,77,Subject-Control,+,Grammatical,Nick is prepared to irritate.
+307,77,Tough,-,Ungrammatical,Nick is difficult to irritate the landlord.
+308,77,Subject-Control,-,Grammatical,Nick is prepared to irritate the landlord.
+309,78,Tough,+,Grammatical,Ned is hard to irritate.
+310,78,Subject-Control,+,Grammatical,Ned is willing to irritate.
+311,78,Tough,-,Ungrammatical,Ned is hard to irritate the lawyer.
+312,78,Subject-Control,-,Grammatical,Ned is willing to irritate the lawyer.
+313,79,Tough,+,Grammatical,Elaine is impossible to irritate.
+314,79,Subject-Control,+,Grammatical,Elaine is determined to irritate.
+315,79,Tough,-,Ungrammatical,Elaine is impossible to irritate the director.
+316,79,Subject-Control,-,Grammatical,Elaine is determined to irritate the director.
+317,80,Tough,+,Grammatical,Walter is tough to irritate.
+318,80,Subject-Control,+,Grammatical,Walter is ready to irritate.
+319,80,Tough,-,Ungrammatical,Walter is tough to irritate the audience.
+320,80,Subject-Control,-,Grammatical,Walter is ready to irritate the audience.
+321,81,Tough,+,Grammatical,Jacob is easy to confuse.
+322,81,Subject-Control,+,Grammatical,Jacob is eager to confuse.
+323,81,Tough,-,Ungrammatical,Jacob is easy to confuse the chasers.
+324,81,Subject-Control,-,Grammatical,Jacob is eager to confuse the chasers.
+325,82,Tough,+,Grammatical,George is difficult to confuse.
+326,82,Subject-Control,+,Grammatical,George is determined to confuse.
+327,82,Tough,-,Ungrammatical,George is difficult to confuse his relatives.
+328,82,Subject-Control,-,Grammatical,George is determined to confuse his relatives.
+329,83,Tough,+,Grammatical,William is hard to confuse.
+330,83,Subject-Control,+,Grammatical,William is willing to confuse.
+331,83,Tough,-,Ungrammatical,William is hard to confuse his competitors.
+332,83,Subject-Control,-,Grammatical,William is willing to confuse his competitors.
+333,84,Tough,+,Grammatical,Joe is impossible to confuse.
+334,84,Subject-Control,+,Grammatical,Joe is prepared to confuse.
+335,84,Tough,-,Ungrammatical,Joe is impossible to confuse the intruders.
+336,84,Subject-Control,-,Grammatical,Joe is prepared to confuse the intruders.
+337,85,Tough,+,Grammatical,Liam is tough to confuse.
+338,85,Subject-Control,+,Grammatical,Liam is ready to confuse.
+339,85,Tough,-,Ungrammatical,Liam is tough to confuse the gangsters.
+340,85,Subject-Control,-,Grammatical,Liam is ready to confuse the gangsters.
+341,86,Tough,+,Grammatical,Robert is easy to annoy.
+342,86,Subject-Control,+,Grammatical,Robert is eager to annoy.
+343,86,Tough,-,Ungrammatical,Robert is easy to annoy his teammates.
+344,86,Subject-Control,-,Grammatical,Robert is eager to annoy his teammates.
+345,87,Tough,+,Grammatical,Richard is difficult to annoy.
+346,87,Subject-Control,+,Grammatical,Richard is determined to annoy.
+347,87,Tough,-,Ungrammatical,Richard is difficult to annoy the instructor.
+348,87,Subject-Control,-,Grammatical,Richard is determined to annoy the instructor.
+349,88,Tough,+,Grammatical,Emily is hard to annoy.
+350,88,Subject-Control,+,Grammatical,Emily is willing to annoy.
+351,88,Tough,-,Ungrammatical,Emily is hard to annoy her seniors.
+352,88,Subject-Control,-,Grammatical,Emily is willing to annoy her seniors.
+353,89,Tough,+,Grammatical,Abigail is impossible to annoy.
+354,89,Subject-Control,+,Grammatical,Abigail is prepared to annoy.
+355,89,Tough,-,Ungrammatical,Abigail is impossible to annoy the kids.
+356,89,Subject-Control,-,Grammatical,Abigail is prepared to annoy the kids.
+357,90,Tough,+,Grammatical,Victoria is tough to annoy.
+358,90,Subject-Control,+,Grammatical,Victoria is ready to annoy.
+359,90,Tough,-,Ungrammatical,Victoria is tough to annoy the scammers.
+360,90,Subject-Control,-,Grammatical,Victoria is ready to annoy the scammers.
+361,91,Tough,+,Grammatical,Jennifer is easy to satisfy.
+362,91,Subject-Control,+,Grammatical,Jennifer is eager to satisfy.
+363,91,Tough,-,Ungrammatical,Jennifer is easy to satisfy the interviewers.
+364,91,Subject-Control,-,Grammatical,Jennifer is eager to satisfy the interviewers.
+365,92,Tough,+,Grammatical,Linda is difficult to satisfy.
+366,92,Subject-Control,+,Grammatical,Linda is determined to satisfy.
+367,92,Tough,-,Ungrammatical,Linda is difficult to satisfy her husband.
+368,92,Subject-Control,-,Grammatical,Linda is determined to satisfy her husband.
+369,93,Tough,+,Grammatical,Susan is hard to satisfy.
+370,93,Subject-Control,+,Grammatical,Susan is willing to satisfy.
+371,93,Tough,-,Ungrammatical,Susan is hard to satisfy the customers.
+372,93,Subject-Control,-,Grammatical,Susan is willing to satisfy the customers.
+373,94,Tough,+,Grammatical,Smith is impossible to satisfy.
+374,94,Subject-Control,+,Grammatical,Smith is happy to satisfy.
+375,94,Tough,-,Ungrammatical,Smith is impossible to satisfy the requirements.
+376,94,Subject-Control,-,Grammatical,Smith is happy to satisfy the requirements.
+377,95,Tough,+,Grammatical,Robin is tough to satisfy.
+378,95,Subject-Control,+,Grammatical,Robin is ready to satisfy.
+379,95,Tough,-,Ungrammatical,Robin is tough to satisfy the demands.
+380,95,Subject-Control,-,Grammatical,Robin is ready to satisfy the demands.
+381,96,Tough,+,Grammatical,Wilson is easy to encourage.
+382,96,Subject-Control,+,Grammatical,Wilson is eager to encourage.
+383,96,Tough,-,Ungrammatical,Wilson is easy to encourage new ideas.
+384,96,Subject-Control,-,Grammatical,Wilson is eager to encourage new ideas.
+385,97,Tough,+,Grammatical,Jones is difficult to encourage.
+386,97,Subject-Control,+,Grammatical,Jones is glad to encourage.
+387,97,Tough,-,Ungrammatical,Jones is difficult to encourage innovation.
+388,97,Subject-Control,-,Grammatical,Jones is glad to encourage innovation.
+389,98,Tough,+,Grammatical,Jack is hard to encourage.
+390,98,Subject-Control,+,Grammatical,Jack is willing to encourage.
+391,98,Tough,-,Ungrammatical,Jack is hard to encourage participation.
+392,98,Subject-Control,-,Grammatical,Jack is willing to encourage particpation.
+393,99,Tough,+,Grammatical,Will is impossible to encourage.
+394,99,Subject-Control,+,Grammatical,Will is happy to encourage.
+395,99,Tough,-,Ungrammatical,Will is impossible to encourage collaboration.
+396,99,Subject-Control,-,Grammatical,Will is happy to encourage collaboration.
+397,100,Tough,+,Grammatical,Martin is tough to encourage.
+398,100,Subject-Control,+,Grammatical,Martin is ready to encourage.
+399,100,Tough,-,Ungrammatical,Martin is tough to encourage his students.
+400,100,Subject-Control,-,Grammatical,Martin is ready to encourage his students.
