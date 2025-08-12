@@ -109,9 +109,7 @@ Evaluates semantic interpretation in contexts where the focus is on the **event*
 ## Notes for All Files
 
 - **Encoding:** All CSV files are UTF-8 encoded with comma separators.
-- **Missing Values:** No missing values are expected. Blank cells indicate non-applicable data.
-- **SET Column:** Use `SET` to group or balance items in experimental runs.
-- **Licensing:** See `LICENSE` for usage terms.
-- **Citation:** If using these materials, please cite both the dataset and the original paper.
+- **Licensing:** TBD
+- **Citation:** TBD
 
 ---
