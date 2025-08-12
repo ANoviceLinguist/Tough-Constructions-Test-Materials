@@ -4,10 +4,10 @@ This codebook documents the structure, columns, and labels for all CSV files in 
 
 ---
 
-## 1. `exp1.csv` — Syntax (Experiment I)
+## 1. `exp1.csv` — Experiment I
 
 **Purpose**  
-Tests syntactic well-formedness judgments for *Tough* constructions and related control items.
+The test materials test syntactic well-formedness judgments for *Tough* constructions and related control items.
 
 **Columns**
 
@@ -31,35 +31,10 @@ Tests syntactic well-formedness judgments for *Tough* constructions and related 
 
 ---
 
-## 2. `exp2_goal.csv` — Semantics (Goal-Focused)
+## 2-1. `exp2_object.csv` — Experiment II (Object-Focused)
 
 **Purpose**  
-Evaluates semantic interpretation in contexts where the focus is on the **goal** of the action.
-
-**Columns**
-
-| Column | Type | Description |
-|--------|------|-------------|
-| `SET` | String/Integer | Experimental set/group identifier. |
-| `SENDER` | String | Speaker producing the utterance. |
-| `RECEIVER` | String | Addressee/recipient of the utterance. |
-| `CONTEXT` | String | Scenario context for interpreting A/B/C. |
-| `A` | String | Option A (test sentence). |
-| `B` | String | Option B (test sentence). |
-| `C` | String | Option C (test sentence). |
-
-**Example Row (Set 1)**
-
-| SET | SENDER | RECEIVER | CONTEXT | A | B | C |
-|-----|--------|----------|---------|---|---|---|
-| 1 | John | Tom | John has to send a lightweight box to Tom, who lives alone in a remote island far away. John complains to his friend about this. | This box is tough to send to Tom. | Tom is tough to send this box to. | It is tough to send this box to Tom. |
-
----
-
-## 3. `exp2_object.csv` — Semantics (Object-Focused)
-
-**Purpose**  
-Evaluates semantic interpretation in contexts where the focus is on the **object** affected by the action.
+The test materials evaluate semantic interpretation in contexts where the focus is on the **object** affected by the action.
 
 **Columns**
 
@@ -81,10 +56,35 @@ Evaluates semantic interpretation in contexts where the focus is on the **object
 
 ---
 
-## 4. `exp2_event.csv` — Semantics (Event-Focused)
+## 2-2. `exp2_goal.csv` — Experiment II (Goal-Focused)
 
 **Purpose**  
-Evaluates semantic interpretation in contexts where the focus is on the **event** itself.
+The test materials evaluate semantic interpretation in contexts where the focus is on the **goal** of the action.
+
+**Columns**
+
+| Column | Type | Description |
+|--------|------|-------------|
+| `SET` | String/Integer | Experimental set/group identifier. |
+| `SENDER` | String | Speaker producing the utterance. |
+| `RECEIVER` | String | Addressee/recipient of the utterance. |
+| `CONTEXT` | String | Scenario context for interpreting A/B/C. |
+| `A` | String | Option A (test sentence). |
+| `B` | String | Option B (test sentence). |
+| `C` | String | Option C (test sentence). |
+
+**Example Row (Set 1)**
+
+| SET | SENDER | RECEIVER | CONTEXT | A | B | C |
+|-----|--------|----------|---------|---|---|---|
+| 1 | John | Tom | John has to send a lightweight box to Tom, who lives alone in a remote island far away. John complains to his friend about this. | This box is tough to send to Tom. | Tom is tough to send this box to. | It is tough to send this box to Tom. |
+
+---
+
+## 2-3. `exp2_event.csv` — Experiment II (Event-Focused)
+
+**Purpose**  
+The test materials evaluate semantic interpretation in contexts where the focus is on the **event** itself.
 
 **Columns**
 
