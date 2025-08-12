@@ -109,7 +109,7 @@ Evaluates semantic interpretation in contexts where the focus is on the **event*
 ## Notes for All Files
 
 - **Encoding:** All CSV files are UTF-8 encoded with comma separators.
-- **Licensing:** TBD
+- **License:** TBD
 - **Citation:** TBD
 
 ---
